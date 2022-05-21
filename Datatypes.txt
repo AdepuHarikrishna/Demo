@@ -1,0 +1,22 @@
+classs DataTypes
+{
+  public static void main(String args[])
+  { 
+    byte  b= 127;
+    short s= 32767;
+    int   i= 123456;
+    long  l= 12345678L;
+    float f= 12.34F;
+    double d= 123.456;
+    char  ch= 'A';
+    boolean b2= true;
+    System.out.println("byte value of="+b);
+    System.out.println("short value of="+s);
+    System.out.println("int value of="+i);
+    System.out.println("long value of="+l);
+    System.out.println("float value of="+f);
+    System.out.println("double value of="+d);
+    System.out.println("char value of="+ch);
+    System.out.println("boolean value of="+b2);
+    }
+}
